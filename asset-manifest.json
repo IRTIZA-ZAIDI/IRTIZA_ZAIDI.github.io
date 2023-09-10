@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TextUtiils/static/css/main.073c9b0a.css",
-    "main.js": "/TextUtiils/static/js/main.71d33574.js",
-    "static/js/787.b701888c.chunk.js": "/TextUtiils/static/js/787.b701888c.chunk.js",
-    "index.html": "/TextUtiils/index.html",
-    "main.073c9b0a.css.map": "/TextUtiils/static/css/main.073c9b0a.css.map",
-    "main.71d33574.js.map": "/TextUtiils/static/js/main.71d33574.js.map",
-    "787.b701888c.chunk.js.map": "/TextUtiils/static/js/787.b701888c.chunk.js.map"
+    "main.css": "/IRTIZA_ZAIDI.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/IRTIZA_ZAIDI.github.io/static/js/main.def1fc51.js",
+    "static/js/787.b701888c.chunk.js": "/IRTIZA_ZAIDI.github.io/static/js/787.b701888c.chunk.js",
+    "index.html": "/IRTIZA_ZAIDI.github.io/index.html",
+    "main.073c9b0a.css.map": "/IRTIZA_ZAIDI.github.io/static/css/main.073c9b0a.css.map",
+    "main.def1fc51.js.map": "/IRTIZA_ZAIDI.github.io/static/js/main.def1fc51.js.map",
+    "787.b701888c.chunk.js.map": "/IRTIZA_ZAIDI.github.io/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.71d33574.js"
+    "static/js/main.def1fc51.js"
   ]
 }
